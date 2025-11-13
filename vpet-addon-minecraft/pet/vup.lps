@@ -1,0 +1,6 @@
+pet#vup:|intor#vup_Description:|path#vup:|petname#vup_PetName:|
+touchhead:|px#0:|py#0:|sw#0:|sh#0:|touchhead
+touchbody:|px#0:|py#0:|sw#0:|sh#0:|touchbody
+touchraised:|happy_px#0:|happy_py#0:|happy_sw#0:|happy_sh#0:|nomal_px#0:|nomal_py#0:|nomal_sw#0:|nomal_sh#0:|poorcondition_px#0:|poorcondition_py#0:|poorcondition_sw#0:|poorcondition_sh#0:|ill_px#0:|ill_py#0:|ill_sw#0:|ill_sh#0:|touchraised
+raisepoint:|happy_x#0:|happy_y#0:|nomal_x#0:|nomal_y#0:|poorcondition_x#0:|poorcondition_y#0:|ill_x#0:|ill_y#0:|raisepoint
+work:|Type#Work:|Name#挖矿:|Graph#挖矿:|MoneyBase#9.25:|StrengthFood#5:|StrengthDrink#6:|Feeling#4:|LevelLimit#16:|Time#40:|FinishBonus#0.5:|BorderBrush#734E0A:|Background#B16600:|ButtonBackground#696660:|ButtonForeground#FFFFFF:|Foreground#FFFFFF:|Left#100:|Top#300:|Width#300:|
