@@ -1,2 +1,3 @@
+*.lps linguist-language=INI
 *.lps linguist-detectable=true
 *.png linguist-detectable=true
